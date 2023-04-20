@@ -1,0 +1,2 @@
+# Python-Master-Course-From-Basics-to-Data-Science-and-Game-Development
+This Python course covers fundamentals such as data types, loops, decision-making, file handling, and modules. You'll build terminal, desktop, and graphical applications, real-world games, and smart calculators/dictionaries. Also, you'll learn data science/visualization with various tools and analyze big data sets with Python.
